@@ -1,0 +1,1 @@
+# meta-django-api-course
